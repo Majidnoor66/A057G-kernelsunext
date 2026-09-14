@@ -116,6 +116,6 @@ RELEASE
 
 KernelSU A057G
 Firmware: A057GXXU7DYE5
-Status: Testing
+Status: good and confirmed it's okay
 
 ============================================
